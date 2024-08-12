@@ -1,0 +1,9 @@
+Selector ( * = Asterisk)
+
+1]universal selector *{ CSS Aply All documrnt }
+
+2]Element Selector h1{ CSS aply for h1/butoon etc only}
+
+3]Id selector  #unicname{ CSS Aply}
+
+4]Class Selector .class name(  )

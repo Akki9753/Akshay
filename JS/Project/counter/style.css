@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(white, tomato);
+}
+
+#counter {
+    height: 50vh;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    box-shadow: 5px 5px black;
+    border-radius: 20px;
+    font-size: 48px;
+}
+
+button {
+    height: 40px;  /* Adjusted height for better visibility */
+    width: 100px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;  /* Corrected the 'columns' to 'color' */
+    font-size: 16px;  /* Added a font size for better readability */
+    cursor: pointer;  /* Added a pointer cursor for better UX */
+}
+
+button:hover {
+    background-color: gray;  /* Optional: change color on hover */
+}
