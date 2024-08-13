@@ -1,2 +1,2 @@
 # Akshay
-This is my first depository
+This is my first Repository
